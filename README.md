@@ -7,7 +7,7 @@ STEP 2 : Register on sms4india.com
 
 STEP 3 : Get the test of API with both Secret and API keys.
 
-STEP 4 : Use the given code.
+STEP 4 : Use the given code in final.py and put values accordingly in request section.
 
 STEP 5 : Put the API and Secret key in code.
 
