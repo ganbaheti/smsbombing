@@ -17,3 +17,6 @@ def sendPostRequest(reqUrl, apiKey, secretKey, useType, phoneNo, senderId, textM
 
 # for response
 response = sendPostRequest(URL, 'api key', 'secret key', 'for testing put: stage', 'mobile no.', 'email id', 'text message' )
+
+# for api : sms4 india only gives 25 sms per day. Use a Private DNS for more SMS.
+
